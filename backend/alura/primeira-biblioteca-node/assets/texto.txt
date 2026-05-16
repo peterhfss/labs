@@ -1,0 +1,11 @@
+Você já sentiu aquela pontada de dúvida ao receber um retorno de uma API ou ao lidar com uma biblioteca externa? 
+
+Nessas horas, o any parece um abraço quentinho: ele aceita tudo, não reclama de nada e deixa o código rodar. Mas, como diz o ditado no mundo dev, “com grandes poderes vêm grandes responsabilidades” (e, às vezes, grandes erros de runtime). 
+
+Podemos pensar no any e no unknown como dois guias em uma floresta desconhecida. O any é aquele guia excessivamente otimista que diz: “Pode pisar em qualquer lugar, está tudo bem!”, até que você pisa em um buraco.
+
+Já o unknown é o guia cauteloso: ele para você na frente de cada arbusto e diz: “Não dê um passo até verificarmos se o chão é firme.” 
+
+Manter a tipagem segura não é apenas um “capricho” técnico. No mercado atual, onde sistemas escaláveis e colaboração entre grandes times são a regra, a clareza do código é o que separa um projeto de sucesso de um pesadelo de manutenção.
+
+O unknown é o “irmão responsável” do any, e ele permite que você mantenha a flexibilidade de dados dinâmicos sem abrir mão da proteção que o TypeScript oferece. 
